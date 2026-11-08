@@ -6,8 +6,8 @@
 //
 // NEDEN BÖYLE?
 //   GD'nin menü metinleri C++ içine gömülü ve çoğu CCLabelBMFont ile çiziliyor.
-//   Vanilla çeviri yalnızca GlobalID (node ID) modu açıkken yapılır; böylece
-//   kullanıcının yazdığı seviye adları, yorumlar, kullanıcı adları BOZULMAZ.
+//   Vanilla çeviri ayarıyla açıp kapatılabilir (kullanıcı adları, seviye
+//   isimleri ve yorumlar da etiket olduğu için yanlış çeviri riski vardır).
 //
 // SÖZLÜKLER OTOMATİK ÜRETİLİR — elle düzenlemeyin!
 //   ceviriler/ceviri-tablosu.tsv  (Geode arayüzü)
@@ -18,7 +18,6 @@
 #include <Geode/modify/CCScene.hpp>
 #include <Geode/modify/MenuLayer.hpp>
 #include <Geode/binding/FLAlertLayer.hpp>
-#include <Geode/binding/GlobalID.hpp>
 #include <cocos2d.h>
 #include <string>
 
@@ -112,9 +111,8 @@ bool uygula(cocos2d::CCNode* node, std::string& ilkMetin, bool geriDondur) {
     else {
         // 1) Geode arayüzü sözlüğü
         if (!cevir(g_geode, src, hedef)) {
-            // 2) Vanilla sözlüğü (yalnızca GlobalID açıksa)
+            // 2) Vanilla sözlüğü (kullanıcı ayarıyla açıp kapatılabilir)
             if (!Mod::get()->getSettingValue<bool>("vanilla-ceviri")) return false;
-            if (!GlobalID::getGlobalIDEnabled()) return false;
             if (!cevir(g_vanilya, src, hedef)) return false;
         }
     }
@@ -139,13 +137,6 @@ bool uygula(cocos2d::CCNode* node, std::string& ilkMetin, bool geriDondur) {
 void tara(cocos2d::CCNode* node) {
     if (!node) return;
 
-    // GlobalID kapalıysa daha önce çevirilen yazıları İngilizceye geri al
-    // (kullanıcı adları / seviye isimleri bozulmasın). geriAl zaten cocuklara da yayılır.
-    if (!GlobalID::getGlobalIDEnabled()) {
-        geriAl(node);
-        return;
-    }
-
     // Çevrilen ilk metni node üzerinde saklıyoruz: kapatınca geri dönebilmek için.
     auto* veri = node->getUserObject();
     std::string ilkMetin;
@@ -167,7 +158,7 @@ void tara(cocos2d::CCNode* node) {
     }
 }
 
-// GlobalID kapanınca yazıları İngilizceye geri al.
+// Yazıları İngilizceye geri alır (kullanıcı GlobalID'i kapattığında çağrılır).
 void geriAl(cocos2d::CCNode* node) {
     if (!node) return;
     auto* veri = node->getUserObject();
