@@ -1,0 +1,210 @@
+EN	TR	durum	not
+Issue Report	Hata Bildirimi	hazir	
+Please report the issue to the mod that caused the crash.	Çökmeye neden olan moda hata bildirimi yap.	hazir	
+Open Folder	Klasörü Aç	hazir	
+Failed to load image: {}	Görsel yüklenemedi: {}	hazir	
+Loading mod...	Mod yükleniyor...	hazir	
+Error Loading Mod	Mod Yüklenirken Hata	hazir	
+Unable to find mod with the ID <cr>{}</c>!	<cr>{}</c> kimliğine sahip mod bulunamadı!	hazir	
+all done	hepsi tamam	hazir	
+{} Mod Installed/Updated	{} mod yüklendi/güncellendi	hazir	
+{} Mods Installed/Updated	{} mod yüklendi/güncellendi	hazir	
+Some Download(s) Failed	Bazı indirmeler başarısız oldu	hazir	
+Click to Confirm {} Download	{} indirmeyi onaylamak için dokun	hazir	
+Click to Confirm {} Downloads	{} indirmeyi onaylamak için dokun	hazir	
+Preparing Download(s)	İndirmeler hazırlanıyor	hazir	
+Preparing Download...	İndirme hazırlanıyor...	hazir	
+Download Errors	İndirme Hataları	hazir	
+Safe Mode Enabled	Güvenli Mod Etkin	hazir	
+Safe Mode has been enabled. This means no mods will be loaded to prevent crashes. Feel free to manage any problematic mods.	Güvenli Mod etkinleştirildi. Çökmeleri önlemek için hiçbir mod yüklenmeyecek. Sorunlu modları dilediğin gibi yönetebilirsin.	hazir	
+Restart Now	Şimdi Yeniden Başlat	hazir	
+Page {}/{} (Total {})	Sayfa {}/{} (Toplam {})	hazir	
+Go to Page	Sayfaya Git	hazir	
+Switch Theme	Tema Değiştir	hazir	
+Do you want to switch the <cp>color scheme</c> of the Geode menu	Geode menüsünün <cp>renk şemasını</c> değiştirmek istiyor musun	hazir	
+<cy>GD-style colors</c>	<cy>GD tarzı renkler</c>	hazir	
+<ca>Geode-style colors</c>	<ca>Geode tarzı renkler</c>	hazir	
+Restart Geometry Dash	Geometry Dash'i Yeniden Başlat	hazir	
+Are you sure you want to restart Geometry Dash?	Geometry Dash'i yeniden başlatmak istediğine emin misin?	hazir	
+Manually Installing Mods	Elle Mod Yükleme	hazir	
+You can <cg>manually install mods</c> by selecting their <cd>.geode</c> files.	<cd>.geode</c> dosyalarını seçerek modları <cg>elle yükleyebilirsin</c>.	hazir	
+Do note that manually installed mods <co>are not verified to be safe and stable</c>!	Elle yüklenen modların <co>güvenli ve kararlı olduğu doğrulanmaz</c>!	hazir	
+<cr>Proceed at your own risk!</c>	<cr>Devam etmek riski sana ait!</c>	hazir	
+Geode Mods	Geode Modları	hazir	
+Unable to Select File	Dosya Seçilemedi	hazir	
+Modtober Winner	Modtober Kazananı	hazir	
+Error fetching mod {}: {} (code {})	Mod alınamadı {}: {} (kod {})	hazir	
+[No Description Provided]	[Açıklama Girilmemiş]	hazir	
+Updated at	Güncellenme	hazir	
+Recently installed	Yeni yüklendi	hazir	
+Unsupported Platform	Desteklenmeyen Platform	hazir	
+Outdated (GD {})	Güncel Değil (GD {})	hazir	
+Outdated (Geode {})	Güncel Değil (Geode {})	hazir	
+Paid Content	Ücretli İçerik	hazir	
+This mod contains <cg>Paid Content</c>. This means that some or all	Bu mod <cg>Ücretli İçerik</c> barındırıyor. Yani modun bazı veya tüm	hazir	Devam satırlarıyla birleştirilmeli (bkz. uzun paragraflar)
+<cy>Geode does not handle any payments. The mod handles all transactions in their own way.</c>	<cy>Geode hiçbir ödemeyi işlemez. Tüm işlemleri mod kendi yöntemiyle yürütür.</c>	hazir	
+<cp>The paid content may not be available in your country.</c>	<cp>Ücretli içerik ülkende kullanılamıyor olabilir.</c>	hazir	
+Invalid Platform	Geçersiz Platform	hazir	
+This mod is <cr>not available</c> for your current platform.	Bu mod mevcut platformunda <cr>kullanılamıyor</c>.	hazir	
+This mod targets an <cr>unsupported version of Geometry Dash</c>.	Bu mod <cr>desteklenmeyen bir Geometry Dash sürümünü</c> hedefliyor.	hazir	
+This mod targets an <cr>unsupported version of Geode</c>.	Bu mod <cr>desteklenmeyen bir Geode sürümünü</c> hedefliyor.	hazir	
+It is recommended to <cj>install these mods instead</c>:	Bunun yerine şu modları <cj>yüklemen önerilir</c>:	hazir	
+It is recommended to <cr>uninstall {0}</c>.	<cr>{0} modunu kaldırman önerilir</c>.	hazir	
+Invalid Geode File	Geçersiz Geode Dosyası	hazir	
+Missing dependencies	Eksik bağımlılıklar	hazir	
+Show Updates	Güncellemeleri Göster	hazir	
+Hide Updates	Güncellemeleri Gizle	hazir	
+Update All	Tümünü Güncelle	hazir	
+There were <cy>errors</c> loading some mods	Bazı modlar yüklenirken <cy>hata</c> oluştu	hazir	
+Show Errors Only	Sadece Hataları Göster	hazir	
+Hide Errors Only	Sadece Hataları Gizle	hazir	
+Search Mods	Mod Ara	hazir	
+Modtober 2025 is Here!	Modtober 2025 Başladı!	hazir	
+There is an update available!	Güncelleme mevcut!	hazir	
+Show Update	Güncellemeyi Göster	hazir	
+Hide Update	Güncellemeyi Gizle	hazir	
+There are <cg>{}</c> updates available!	<cg>{}</c> güncelleme mevcut!	hazir	
+Some of your mods have been deprecated!	Bazı modların kullanımdan kaldırıldı!	hazir	
+Show Errors	Hataları Göster	hazir	
+Confirm Install	Yüklemeyi Onayla	hazir	
+<cy>{} mod{} will be installed</c>:	<cy>{} mod yüklenecek</c>:	elle	runtime'da fmt ile birleşiyor; kalıp (regex) eşleşmesi gerekli
+<cy>{} dependenc{} will also be installed</c>:	<cy>{} bağımlılık da yüklenecek</c>:	elle	runtime'da fmt ile birleşiyor
+<cy>{} mod{} will be replaced</c>:	<cy>{} mod değiştirilecek</c>:	elle	runtime'da fmt ile birleşiyor
+<cr>{} mod{} will be force-disabled, as they are incompatible</c>:	<cr>{} mod uyumsuz olduğu için zorla devre dışı bırakılacak</c>:	elle	runtime'da fmt ile birleşiyor
+<cg>{} mod{} will be force-enabled</c>:	<cg>{} mod zorla etkinleştirilecek</c>:	elle	runtime'da fmt ile birleşiyor
+Are you sure you want to \n<cr>uninstall</c> <cy>{:.100}</c>?	<cy>{:.100}</c> modunu <cr>kaldırmak</c> istediğine emin misin?	hazir	
+Delete the Mod's save data	Modun kayıt verilerini sil	hazir	
+Delete ALL mods and their save data	TÜM modları ve kayıt verilerini sil	hazir	
+Mod Uninstalled	Mod Kaldırıldı	hazir	
+{:.400} has been uninstalled!	{:.400} kaldırıldı!	hazir	
+Error Uninstalling	Kaldırma Hatası	hazir	
+Error uninstalling {:.400}: {}	{:.400} kaldırılırken hata: {}	hazir	
+Developers for {}	{} geliştiricileri	hazir	
+Enabled First	Önce Etkin Olanlar	hazir	
+Developer Name	Geliştirici Adı	hazir	
+From Developer	Geliştiriciye Göre	hazir	
+Search Filters	Filtre Ara	hazir	
+Unable to load tags	Etiketler yüklenemedi	hazir	
+Enabled Only	Sadece Etkin	hazir	
+Loader: {}, Bindings: {}	Yükleyici: {}, Bağlamalar: {}	hazir	
+No Updates Found	Güncelleme Bulunamadı	hazir	
+No tags found	Etiket bulunamadı	hazir	
+Entry for Modtober 20{}	Modtober 20{} katılımcısı	hazir	
+No changelog provided	Değişiklik günlüğü girilmemiş	hazir	
+Installing too many mods can lead to <cr>instability</c>, <cr>bugs</c>, and	Çok fazla mod yüklemek <cr>kararsızlığa</c>, <cr>hatalara</c> ve	hazir	Devam satırıyla birleştirilmeli
+Error Uninstalling Mod	Mod Kaldırma Hatası	hazir	
+This mod can not be uninstalled! (It is not installed at all)	Bu mod kaldırılamaz! (Zaten yüklü değil)	hazir	
+Recommended by	Öneren	hazir	
+{} installed mods	{} yüklü mod	hazir	
+Checking for updates	Güncellemeler kontrol ediliyor	hazir	
+Re-Enable	Yeniden Etkinleştir	hazir	
+Re-Disable	Yeniden Devre Dışı Bırak	hazir	
+Not Installed	Yüklü Değil	hazir	
+Mod has been uninstalled	Mod kaldırıldı	hazir	
+Mod has been installed	Mod yüklendi	hazir	
+Update Found	Güncelleme Bulundu	hazir	
+Up to Date!	Güncel!	hazir	
+Join Modtober	Modtober'a Katıl	hazir	
+Join Discord	Discord'a Katıl	hazir	
+Search Sorting	Sıralama Ara	hazir	
+Reset All	Tümünü Sıfırla	hazir	
+No changes have been made.	Hiçbir değişiklik yapılmadı.	hazir	
+Are you sure you want to <cr>reset</c> ALL settings\nto <cy>default</c>?	TÜM ayarları <cy>varsayılana</c> <cr>sıfırlamak</c> istediğine emin misin?	hazir	
+You have <cr>unsaved changes</c>! Are you sure you\nwant to exit?	<cr>Kaydedilmemiş değişikliklerin</c> var! Çıkmak istediğine emin misin?	hazir	
+Search settings...	Ayarlarda ara...	hazir	
+Setting <cy>Escape</c> can make it	<cy>Escape</c> tuşunu atamak oyunu duraklatmayı	hazir	Devam satırıyla birleştirilmeli
+Are you sure you want to do this?	Bunu yapmak istediğine emin misin?	hazir	
+Unsaved Changes	Kaydedilmemiş Değişiklikler	hazir	
+You have <cr>unsaved changes</c>! Are you sure you want to exit?	<cr>Kaydedilmemiş değişikliklerin</c> var! Çıkmak istediğine emin misin?	hazir	
+Mod Keybinds	Mod Tuş Atamaları	hazir	
+Search keybinds...	Kısayol ara...	hazir	
+Settings for {}	{} ayarları	hazir	
+Restart Required	Yeniden Başlatma Gerekli	hazir	
+No description provided	Açıklama girilmemiş	hazir	
+Are you sure you want to <cr>reset</c> <cl>{}</c> to <cy>default</c>?	<cl>{}</c> ayarını <cy>varsayılana</c> <cr>sıfırlamak</c> istediğine emin misin?	hazir	
+Enable the mod to use these buttons	Bu butonları kullanmak için modu etkinleştir	hazir	
+Please pick a good file	Lütfen geçerli bir dosya seç	hazir	
+No Folder Selected	Klasör Seçilmedi	hazir	
+No File Selected	Dosya Seçilmedi	hazir	
+Failed to pick file: {}	Dosya seçilemedi: {}	hazir	
+Missing setting '{}'	'{}' ayarı eksik	hazir	
+Enable the Mod to Edit '{}'	'{}' ayarını düzenlemek için modu etkinleştir	hazir	
+({} invalid mods)	({} geçersiz mod)	hazir	
+Invalid mods	Geçersiz modlar	hazir	
+You have <cy>{}</c> invalid <ca>.geode</c> files in your	Mods klasöründe <cy>{}</c> geçersiz <ca>.geode</c> dosyası var.	hazir	
+<cr>Would you like to delete these invalid files?</c>	<cr>Bu geçersiz dosyaları silmek ister misin?</c>	hazir	
+No mods found :(\n	Hiç mod bulunamadı :(	hazir	
+(You probably haven't updated\n	(Muhtemelen hiç güncellemedin	hazir	Devam satırıyla birleştirilmeli
+Recently Installed	Yeni Yüklenen	hazir	
+No mods found :(	Hiç mod bulunamadı :(	hazir	
+You have invalid Geode mods	Geçersiz Geode modların var	hazir	
+Coming soon ;)	Yakında ;)	hazir	
+Error Toggling Mod	Mod Açma/Kapama Hatası	hazir	
+Are you sure you want to <cr>{0}</c> <co>{2}</c>? Doing this will make <cy>{3} other mods</c> {1}.	<co>{2}</c> modunu <cr>{0}</c> istediğine emin misin? Bunu yaparsan <cy>{3} başka mod</c> {1}.	hazir	
+fail to load	yüklenemeyecek	hazir	
+Error loading mods	Modlar yüklenirken hata	hazir	
+Most Downloads	En Çok İndirilen	hazir	
+Recently Published	Yeni Yayınlanan	hazir	
+Recently Updated	Yeni Güncellenen	hazir	
+Task not started	Görev başlatılmadı	hazir	
+Server Request	Sunucu İsteği	hazir	
+Clear Caches	Önbelleği Temizle	hazir	
+Select Color	Renk Seç	hazir	
+Unknown error	Bilinmeyen hata	hazir	
+Hold Up!	Bir Saniye!	hazir	
+Links are spooky! Are you sure you want to go to <cy>{}</c>?	Bağlantılar ürkütücü! <cy>{}</c> adresine gitmek istediğine emin misin?	hazir	
+Unknown tag {}	Bilinmeyen etiket {}	hazir	
+Error parsing color: {}	Renk ayrıştırma hatası: {}	hazir	
+Too short tag {}	Etiket çok kısa {}	hazir	
+Error parsing Markdown	Markdown ayrıştırma hatası	hazir	
+Value must be 'true' or 'false'	Değer 'true' veya 'false' olmalı	hazir	
+size invalid!	boyut geçersiz!	hazir	
+Font file isn't valid!	Yazı tipi dosyası geçersiz!	hazir	
+Missing font {}, using fallback!	{} yazı tipi eksik, yedek kullanılıyor!	hazir	
+Install	Yükle	hazir	
+Uninstall	Kaldır	hazir	
+Update	Güncelle	hazir	
+Enable	Etkinleştir	hazir	
+Disable	Devre Dışı Bırak	hazir	
+Cancel	İptal	hazir	
+Confirm	Onayla	hazir	
+Save	Kaydet	hazir	
+Apply	Uygula	hazir	
+Reset	Sıfırla	hazir	
+Discard	Vazgeç	hazir	
+Close	Kapat	hazir	
+OK	Tamam	hazir	
+Yes	Evet	hazir	
+No	Hayır	hazir	
+Enabled	Etkin	hazir	
+Disabled	Devre Dışı	hazir	
+Outdated	Güncel Değil	hazir	
+Unavailable	Kullanılamıyor	hazir	
+Deprecated	Kullanımdan Kaldırıldı	hazir	
+Restarting...	Yeniden başlatılıyor...	hazir	
+Manage	Yönet	hazir	
+About	Hakkında	hazir	
+Description	Açıklama	hazir	
+Changelog	Değişiklik Günlüğü	hazir	
+Developer	Geliştirici	hazir	
+Version	Sürüm	hazir	
+Downloads	İndirmeler	hazir	
+Tags	Etiketler	hazir	
+Installed	Yüklü	hazir	
+Featured	Öne Çıkan	hazir	
+Download	İndir	hazir	
+Recent	Son Eklenen	hazir	
+Warning	Uyarı	hazir	
+Error	Hata	hazir	
+Delete	Sil	hazir	
+Add	Ekle	hazir	
+Remove	Kaldır	hazir	
+Set	Ayarla	hazir	
+Test	Test	hazir	
+Join	Katıl	hazir	
+Search	Ara	hazir	
+All	Tümü	hazir	
+Show	Göster	hazir	
+Hide	Gizle	hazir	
+Info	Bilgi	hazir	
+Unknown	Bilinmiyor	hazir	

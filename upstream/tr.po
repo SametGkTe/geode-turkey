@@ -1,0 +1,1055 @@
+# Geode Türkçe yerelleştirme dosyası
+# Bu dosya Geode'un loader UI metinlerini Türkçeye çevirir.
+# Kaynak metinler: geode-sdk/geode @ main, loader/src/ui altındaki dizeler.
+# Katkı: ceviriler/ceviri-tablosu.tsv dosyasını düzenleyip
+#        python3 arac/po-olustur.py çalıştırın.
+msgid ""
+msgstr ""
+"Project-Id-Version: Geode (Türkçe)\n"
+"Report-Msgid-Bugs-To: https://github.com/geode-sdk/geode/issues\n"
+"POT-Creation-Date: 2026-11-08 16:24\n"
+"PO-Revision-Date: 2026-11-08 16:24\n"
+"Last-Translator: Geode Türkçe Topluluğu <ornek@example.com>\n"
+"Language-Team: Türkçe\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "(You probably haven't updated\n"
+msgstr "(Muhtemelen hiç güncellemedin"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "({} invalid mods)"
+msgstr "({} geçersiz mod)"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "<ca>Geode-style colors</c>"
+msgstr "<ca>Geode tarzı renkler</c>"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "<cg>{} mod{} will be force-enabled</c>:"
+msgstr "<cg>{} mod zorla etkinleştirilecek</c>:"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "<cp>The paid content may not be available in your country.</c>"
+msgstr "<cp>Ücretli içerik ülkende kullanılamıyor olabilir.</c>"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "<cr>Proceed at your own risk!</c>"
+msgstr "<cr>Devam etmek riski sana ait!</c>"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "<cr>Would you like to delete these invalid files?</c>"
+msgstr "<cr>Bu geçersiz dosyaları silmek ister misin?</c>"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "<cr>{} mod{} will be force-disabled, as they are incompatible</c>:"
+msgstr "<cr>{} mod uyumsuz olduğu için zorla devre dışı bırakılacak</c>:"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "<cy>GD-style colors</c>"
+msgstr "<cy>GD tarzı renkler</c>"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "<cy>Geode does not handle any payments. The mod handles all transactions in their own way.</c>"
+msgstr "<cy>Geode hiçbir ödemeyi işlemez. Tüm işlemleri mod kendi yöntemiyle yürütür.</c>"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "<cy>{} dependenc{} will also be installed</c>:"
+msgstr "<cy>{} bağımlılık da yüklenecek</c>:"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "<cy>{} mod{} will be installed</c>:"
+msgstr "<cy>{} mod yüklenecek</c>:"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "<cy>{} mod{} will be replaced</c>:"
+msgstr "<cy>{} mod değiştirilecek</c>:"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "About"
+msgstr "Hakkında"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Account"
+msgstr "Hesap"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Add"
+msgstr "Ekle"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "All"
+msgstr "Tümü"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Apply"
+msgstr "Uygula"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Are you sure you want to <cr>reset</c> <cl>{}</c> to <cy>default</c>?"
+msgstr "<cl>{}</c> ayarını <cy>varsayılana</c> <cr>sıfırlamak</c> istediğine emin misin?"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Are you sure you want to <cr>reset</c> ALL settings\nto <cy>default</c>?"
+msgstr "TÜM ayarları <cy>varsayılana</c> <cr>sıfırlamak</c> istediğine emin misin?"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Are you sure you want to <cr>{0}</c> <co>{2}</c>? Doing this will make <cy>{3} other mods</c> {1}."
+msgstr "<co>{2}</c> modunu <cr>{0}</c> istediğine emin misin? Bunu yaparsan <cy>{3} başka mod</c> {1}."
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Are you sure you want to \n<cr>uninstall</c> <cy>{:.100}</c>?"
+msgstr "<cy>{:.100}</c> modunu <cr>kaldırmak</c> istediğine emin misin?"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Are you sure you want to do this?"
+msgstr "Bunu yapmak istediğine emin misin?"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Are you sure you want to restart Geometry Dash?"
+msgstr "Geometry Dash'i yeniden başlatmak istediğine emin misin?"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Author"
+msgstr "Yazar"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Backup"
+msgstr "Yedek"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Big"
+msgstr "Büyük"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Cancel"
+msgstr "İptal"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Categories"
+msgstr "Kategoriler"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Category"
+msgstr "Kategori"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Changelog"
+msgstr "Değişiklik Günlüğü"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Checking for updates"
+msgstr "Güncellemeler kontrol ediliyor"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Clear Caches"
+msgstr "Önbelleği Temizle"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Click to Confirm {} Download"
+msgstr "{} indirmeyi onaylamak için dokun"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Click to Confirm {} Downloads"
+msgstr "{} indirmeyi onaylamak için dokun"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Close"
+msgstr "Kapat"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Color"
+msgstr "Renk"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Coming soon ;)"
+msgstr "Yakında ;)"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Confirm"
+msgstr "Onayla"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Confirm Install"
+msgstr "Yüklemeyi Onayla"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Crash"
+msgstr "Çökme"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Crash Log"
+msgstr "Çökme Günlüğü"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Delete"
+msgstr "Sil"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Delete ALL mods and their save data"
+msgstr "TÜM modları ve kayıt verilerini sil"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Delete the Mod's save data"
+msgstr "Modun kayıt verilerini sil"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Deprecated"
+msgstr "Kullanımdan Kaldırıldı"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Description"
+msgstr "Açıklama"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Developer"
+msgstr "Geliştirici"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Developer Name"
+msgstr "Geliştirici Adı"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Developers"
+msgstr "Geliştiriciler"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Developers for {}"
+msgstr "{} geliştiricileri"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Disable"
+msgstr "Devre Dışı Bırak"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Disabled"
+msgstr "Devre Dışı"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Discard"
+msgstr "Vazgeç"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Do note that manually installed mods <co>are not verified to be safe and stable</c>!"
+msgstr "Elle yüklenen modların <co>güvenli ve kararlı olduğu doğrulanmaz</c>!"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Do you want to switch the <cp>color scheme</c> of the Geode menu"
+msgstr "Geode menüsünün <cp>renk şemasını</c> değiştirmek istiyor musun"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Download"
+msgstr "İndir"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Download Errors"
+msgstr "İndirme Hataları"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Downloads"
+msgstr "İndirmeler"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Editor"
+msgstr "Editör"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Enable"
+msgstr "Etkinleştir"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Enable the Mod to Edit '{}'"
+msgstr "'{}' ayarını düzenlemek için modu etkinleştir"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Enable the mod to use these buttons"
+msgstr "Bu butonları kullanmak için modu etkinleştir"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Enabled"
+msgstr "Etkin"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Enabled First"
+msgstr "Önce Etkin Olanlar"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Enabled Only"
+msgstr "Sadece Etkin"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Entry for Modtober 20{}"
+msgstr "Modtober 20{} katılımcısı"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Error"
+msgstr "Hata"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Error Loading Mod"
+msgstr "Mod Yüklenirken Hata"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Error Toggling Mod"
+msgstr "Mod Açma/Kapama Hatası"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Error Uninstalling"
+msgstr "Kaldırma Hatası"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Error Uninstalling Mod"
+msgstr "Mod Kaldırma Hatası"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Error fetching mod {}: {} (code {})"
+msgstr "Mod alınamadı {}: {} (kod {})"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Error loading mods"
+msgstr "Modlar yüklenirken hata"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Error parsing Markdown"
+msgstr "Markdown ayrıştırma hatası"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Error parsing color: {}"
+msgstr "Renk ayrıştırma hatası: {}"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Error uninstalling {:.400}: {}"
+msgstr "{:.400} kaldırılırken hata: {}"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Failed"
+msgstr "Başarısız"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Failed to load image: {}"
+msgstr "Görsel yüklenemedi: {}"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Failed to pick file: {}"
+msgstr "Dosya seçilemedi: {}"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Featured"
+msgstr "Öne Çıkan"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "File"
+msgstr "Dosya"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Filter"
+msgstr "Filtrele"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Folder"
+msgstr "Klasör"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Font file isn't valid!"
+msgstr "Yazı tipi dosyası geçersiz!"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "From Developer"
+msgstr "Geliştiriciye Göre"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Gameplay"
+msgstr "Oynanış"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Geode Mods"
+msgstr "Geode Modları"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Go to Page"
+msgstr "Sayfaya Git"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Hex"
+msgstr "Hex"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Hide"
+msgstr "Gizle"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Hide Errors Only"
+msgstr "Sadece Hataları Gizle"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Hide Update"
+msgstr "Güncellemeyi Gizle"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Hide Updates"
+msgstr "Güncellemeleri Gizle"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Hold Up!"
+msgstr "Bir Saniye!"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Huge"
+msgstr "Dev"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Icon"
+msgstr "Simge"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Icons"
+msgstr "Simgeler"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Info"
+msgstr "Bilgi"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Install"
+msgstr "Yükle"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Installed"
+msgstr "Yüklü"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Installing too many mods can lead to <cr>instability</c>, <cr>bugs</c>, and"
+msgstr "Çok fazla mod yüklemek <cr>kararsızlığa</c>, <cr>hatalara</c> ve"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Installing..."
+msgstr "Yükleniyor..."
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Invalid Geode File"
+msgstr "Geçersiz Geode Dosyası"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Invalid Platform"
+msgstr "Geçersiz Platform"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Invalid mods"
+msgstr "Geçersiz modlar"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Issue Report"
+msgstr "Hata Bildirimi"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "It is recommended to <cj>install these mods instead</c>:"
+msgstr "Bunun yerine şu modları <cj>yüklemen önerilir</c>:"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "It is recommended to <cr>uninstall {0}</c>."
+msgstr "<cr>{0} modunu kaldırman önerilir</c>."
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Join"
+msgstr "Katıl"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Join Discord"
+msgstr "Discord'a Katıl"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Join Modtober"
+msgstr "Modtober'a Katıl"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Keybind"
+msgstr "Tuş Ataması"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Keybinds"
+msgstr "Tuş Atamaları"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Leaderboard"
+msgstr "Liderlik Tablosu"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Level"
+msgstr "Seviye"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Level Editor"
+msgstr "Seviye Editörü"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Links are spooky! Are you sure you want to go to <cy>{}</c>?"
+msgstr "Bağlantılar ürkütücü! <cy>{}</c> adresine gitmek istediğine emin misin?"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Loader: {}, Bindings: {}"
+msgstr "Yükleyici: {}, Bağlamalar: {}"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Loading mod..."
+msgstr "Mod yükleniyor..."
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Loading..."
+msgstr "Yükleniyor..."
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Manage"
+msgstr "Yönet"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Manually Installing Mods"
+msgstr "Elle Mod Yükleme"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Missing dependencies"
+msgstr "Eksik bağımlılıklar"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Missing font {}, using fallback!"
+msgstr "{} yazı tipi eksik, yedek kullanılıyor!"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Missing setting '{}'"
+msgstr "'{}' ayarı eksik"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Mod"
+msgstr "Mod"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Mod Keybinds"
+msgstr "Mod Tuş Atamaları"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Mod Loader"
+msgstr "Mod Yükleyici"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Mod Menu"
+msgstr "Mod Menüsü"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Mod Settings"
+msgstr "Mod Ayarları"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Mod Uninstalled"
+msgstr "Mod Kaldırıldı"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Mod has been installed"
+msgstr "Mod yüklendi"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Mod has been uninstalled"
+msgstr "Mod kaldırıldı"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Mods"
+msgstr "Modlar"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Modtober 2025 is Here!"
+msgstr "Modtober 2025 Başladı!"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Modtober Winner"
+msgstr "Modtober Kazananı"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Most Downloads"
+msgstr "En Çok İndirilen"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "No"
+msgstr "Hayır"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "No File Selected"
+msgstr "Dosya Seçilmedi"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "No Folder Selected"
+msgstr "Klasör Seçilmedi"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "No Updates Found"
+msgstr "Güncelleme Bulunamadı"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "No changelog provided"
+msgstr "Değişiklik günlüğü girilmemiş"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "No changes have been made."
+msgstr "Hiçbir değişiklik yapılmadı."
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "No description provided"
+msgstr "Açıklama girilmemiş"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "No mods found :("
+msgstr "Hiç mod bulunamadı :("
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "No mods found :(\n"
+msgstr "Hiç mod bulunamadı :("
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "No tags found"
+msgstr "Etiket bulunamadı"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Normal"
+msgstr "Normal"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Not Installed"
+msgstr "Yüklü Değil"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "OK"
+msgstr "Tamam"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Oldest"
+msgstr "En Eski"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Opacity"
+msgstr "Opaklık"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Open Folder"
+msgstr "Klasörü Aç"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Outdated"
+msgstr "Güncel Değil"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Outdated (GD {})"
+msgstr "Güncel Değil (GD {})"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Outdated (Geode {})"
+msgstr "Güncel Değil (Geode {})"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Page {}/{} (Total {})"
+msgstr "Sayfa {}/{} (Toplam {})"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Paid Content"
+msgstr "Ücretli İçerik"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Please pick a good file"
+msgstr "Lütfen geçerli bir dosya seç"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Please report the issue to the mod that caused the crash."
+msgstr "Çökmeye neden olan moda hata bildirimi yap."
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Preparing Download(s)"
+msgstr "İndirmeler hazırlanıyor"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Preparing Download..."
+msgstr "İndirme hazırlanıyor..."
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Press a key..."
+msgstr "Bir tuşa bas..."
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Profile"
+msgstr "Profil"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Re-Disable"
+msgstr "Yeniden Devre Dışı Bırak"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Re-Enable"
+msgstr "Yeniden Etkinleştir"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Recent"
+msgstr "Son Eklenen"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Recently Installed"
+msgstr "Yeni Yüklenen"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Recently Published"
+msgstr "Yeni Yayınlanan"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Recently Updated"
+msgstr "Yeni Güncellenen"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Recently installed"
+msgstr "Yeni yüklendi"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Recommended by"
+msgstr "Öneren"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Remove"
+msgstr "Kaldır"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Reset"
+msgstr "Sıfırla"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Reset All"
+msgstr "Tümünü Sıfırla"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Restart Geometry Dash"
+msgstr "Geometry Dash'i Yeniden Başlat"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Restart Now"
+msgstr "Şimdi Yeniden Başlat"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Restart Required"
+msgstr "Yeniden Başlatma Gerekli"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Restarting..."
+msgstr "Yeniden başlatılıyor..."
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Safe Mode"
+msgstr "Güvenli Mod"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Safe Mode Enabled"
+msgstr "Güvenli Mod Etkin"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Safe Mode has been enabled. This means no mods will be loaded to prevent crashes. Feel free to manage any problematic mods."
+msgstr "Güvenli Mod etkinleştirildi. Çökmeleri önlemek için hiçbir mod yüklenmeyecek. Sorunlu modları dilediğin gibi yönetebilirsin."
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Save"
+msgstr "Kaydet"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Search"
+msgstr "Ara"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Search Filters"
+msgstr "Filtre Ara"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Search Mods"
+msgstr "Mod Ara"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Search Sorting"
+msgstr "Sıralama Ara"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Search keybinds..."
+msgstr "Kısayol ara..."
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Search settings..."
+msgstr "Ayarlarda ara..."
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Select Color"
+msgstr "Renk Seç"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Server"
+msgstr "Sunucu"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Server Request"
+msgstr "Sunucu İsteği"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Set"
+msgstr "Ayarla"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Setting <cy>Escape</c> can make it"
+msgstr "<cy>Escape</c> tuşunu atamak oyunu duraklatmayı"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Settings"
+msgstr "Ayarlar"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Settings for {}"
+msgstr "{} ayarları"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Show"
+msgstr "Göster"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Show Errors"
+msgstr "Hataları Göster"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Show Errors Only"
+msgstr "Sadece Hataları Göster"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Show Update"
+msgstr "Güncellemeyi Göster"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Show Updates"
+msgstr "Güncellemeleri Göster"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Small"
+msgstr "Küçük"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Some Download(s) Failed"
+msgstr "Bazı indirmeler başarısız oldu"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Some of your mods have been deprecated!"
+msgstr "Bazı modların kullanımdan kaldırıldı!"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Sort"
+msgstr "Sırala"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Success"
+msgstr "Başarılı"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Switch Theme"
+msgstr "Tema Değiştir"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Tags"
+msgstr "Etiketler"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Task not started"
+msgstr "Görev başlatılmadı"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Test"
+msgstr "Test"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Text"
+msgstr "Metin"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Theme"
+msgstr "Tema"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "There are <cg>{}</c> updates available!"
+msgstr "<cg>{}</c> güncelleme mevcut!"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "There is an update available!"
+msgstr "Güncelleme mevcut!"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "There were <cy>errors</c> loading some mods"
+msgstr "Bazı modlar yüklenirken <cy>hata</c> oluştu"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "This mod can not be uninstalled! (It is not installed at all)"
+msgstr "Bu mod kaldırılamaz! (Zaten yüklü değil)"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "This mod contains <cg>Paid Content</c>. This means that some or all"
+msgstr "Bu mod <cg>Ücretli İçerik</c> barındırıyor. Yani modun bazı veya tüm"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "This mod is <cr>not available</c> for your current platform."
+msgstr "Bu mod mevcut platformunda <cr>kullanılamıyor</c>."
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "This mod targets an <cr>unsupported version of Geode</c>."
+msgstr "Bu mod <cr>desteklenmeyen bir Geode sürümünü</c> hedefliyor."
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "This mod targets an <cr>unsupported version of Geometry Dash</c>."
+msgstr "Bu mod <cr>desteklenmeyen bir Geometry Dash sürümünü</c> hedefliyor."
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Tiny"
+msgstr "Minik"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Too short tag {}"
+msgstr "Etiket çok kısa {}"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Unable to Select File"
+msgstr "Dosya Seçilemedi"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Unable to find mod with the ID <cr>{}</c>!"
+msgstr "<cr>{}</c> kimliğine sahip mod bulunamadı!"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Unable to load tags"
+msgstr "Etiketler yüklenemedi"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Unavailable"
+msgstr "Kullanılamıyor"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Uninstall"
+msgstr "Kaldır"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Uninstalling..."
+msgstr "Kaldırılıyor..."
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Universal"
+msgstr "Genel"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Unknown"
+msgstr "Bilinmiyor"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Unknown error"
+msgstr "Bilinmeyen hata"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Unknown tag {}"
+msgstr "Bilinmeyen etiket {}"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Unsaved Changes"
+msgstr "Kaydedilmemiş Değişiklikler"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Unsupported Platform"
+msgstr "Desteklenmeyen Platform"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Up to Date!"
+msgstr "Güncel!"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Up to date"
+msgstr "Güncel"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Update"
+msgstr "Güncelle"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Update All"
+msgstr "Tümünü Güncelle"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Update Found"
+msgstr "Güncelleme Bulundu"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Updated at"
+msgstr "Güncellenme"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Value"
+msgstr "Değer"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Value must be 'true' or 'false'"
+msgstr "Değer 'true' veya 'false' olmalı"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Version"
+msgstr "Sürüm"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Warning"
+msgstr "Uyarı"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "Yes"
+msgstr "Evet"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "You can <cg>manually install mods</c> by selecting their <cd>.geode</c> files."
+msgstr "<cd>.geode</c> dosyalarını seçerek modları <cg>elle yükleyebilirsin</c>."
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "You have <cr>unsaved changes</c>! Are you sure you want to exit?"
+msgstr "<cr>Kaydedilmemiş değişikliklerin</c> var! Çıkmak istediğine emin misin?"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "You have <cr>unsaved changes</c>! Are you sure you\nwant to exit?"
+msgstr "<cr>Kaydedilmemiş değişikliklerin</c> var! Çıkmak istediğine emin misin?"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "You have <cy>{}</c> invalid <ca>.geode</c> files in your"
+msgstr "Mods klasöründe <cy>{}</c> geçersiz <ca>.geode</c> dosyası var."
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "You have invalid Geode mods"
+msgstr "Geçersiz Geode modların var"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "[No Description Provided]"
+msgstr "[Açıklama Girilmemiş]"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "all done"
+msgstr "hepsi tamam"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "fail to load"
+msgstr "yüklenemeyecek"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "size invalid!"
+msgstr "boyut geçersiz!"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "{:.400} has been uninstalled!"
+msgstr "{:.400} kaldırıldı!"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "{} Mod Installed/Updated"
+msgstr "{} mod yüklendi/güncellendi"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "{} Mods Installed/Updated"
+msgstr "{} mod yüklendi/güncellendi"
+
+#. Kaynak tabloda: ceviriler/ceviri-tablosu.tsv
+msgid "{} installed mods"
+msgstr "{} yüklü mod"
+

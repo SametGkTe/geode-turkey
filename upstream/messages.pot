@@ -1,0 +1,796 @@
+# Geode Türkçe yerelleştirme dosyası
+# Bu dosya Geode'un loader UI metinlerini Türkçeye çevirir.
+# Kaynak metinler: geode-sdk/geode @ main, loader/src/ui altındaki dizeler.
+# Katkı: ceviriler/ceviri-tablosu.tsv dosyasını düzenleyip
+#        python3 arac/po-olustur.py çalıştırın.
+msgid ""
+msgstr ""
+"Project-Id-Version: Geode (Türkçe)\n"
+"Report-Msgid-Bugs-To: https://github.com/geode-sdk/geode/issues\n"
+"POT-Creation-Date: 2026-11-08 16:24\n"
+"PO-Revision-Date: 2026-11-08 16:24\n"
+"Last-Translator: Geode Türkçe Topluluğu <ornek@example.com>\n"
+"Language-Team: Türkçe\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+msgid "(You probably haven't updated\n"
+msgstr ""
+
+msgid "({} invalid mods)"
+msgstr ""
+
+msgid "<ca>Geode-style colors</c>"
+msgstr ""
+
+msgid "<cg>{} mod{} will be force-enabled</c>:"
+msgstr ""
+
+msgid "<cp>The paid content may not be available in your country.</c>"
+msgstr ""
+
+msgid "<cr>Proceed at your own risk!</c>"
+msgstr ""
+
+msgid "<cr>Would you like to delete these invalid files?</c>"
+msgstr ""
+
+msgid "<cr>{} mod{} will be force-disabled, as they are incompatible</c>:"
+msgstr ""
+
+msgid "<cy>GD-style colors</c>"
+msgstr ""
+
+msgid "<cy>Geode does not handle any payments. The mod handles all transactions in their own way.</c>"
+msgstr ""
+
+msgid "<cy>{} dependenc{} will also be installed</c>:"
+msgstr ""
+
+msgid "<cy>{} mod{} will be installed</c>:"
+msgstr ""
+
+msgid "<cy>{} mod{} will be replaced</c>:"
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "Account"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "Apply"
+msgstr ""
+
+msgid "Are you sure you want to <cr>reset</c> <cl>{}</c> to <cy>default</c>?"
+msgstr ""
+
+msgid "Are you sure you want to <cr>reset</c> ALL settings\nto <cy>default</c>?"
+msgstr ""
+
+msgid "Are you sure you want to <cr>{0}</c> <co>{2}</c>? Doing this will make <cy>{3} other mods</c> {1}."
+msgstr ""
+
+msgid "Are you sure you want to \n<cr>uninstall</c> <cy>{:.100}</c>?"
+msgstr ""
+
+msgid "Are you sure you want to do this?"
+msgstr ""
+
+msgid "Are you sure you want to restart Geometry Dash?"
+msgstr ""
+
+msgid "Author"
+msgstr ""
+
+msgid "Backup"
+msgstr ""
+
+msgid "Big"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Categories"
+msgstr ""
+
+msgid "Category"
+msgstr ""
+
+msgid "Changelog"
+msgstr ""
+
+msgid "Checking for updates"
+msgstr ""
+
+msgid "Clear Caches"
+msgstr ""
+
+msgid "Click to Confirm {} Download"
+msgstr ""
+
+msgid "Click to Confirm {} Downloads"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Color"
+msgstr ""
+
+msgid "Coming soon ;)"
+msgstr ""
+
+msgid "Confirm"
+msgstr ""
+
+msgid "Confirm Install"
+msgstr ""
+
+msgid "Crash"
+msgstr ""
+
+msgid "Crash Log"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Delete ALL mods and their save data"
+msgstr ""
+
+msgid "Delete the Mod's save data"
+msgstr ""
+
+msgid "Deprecated"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Developer"
+msgstr ""
+
+msgid "Developer Name"
+msgstr ""
+
+msgid "Developers"
+msgstr ""
+
+msgid "Developers for {}"
+msgstr ""
+
+msgid "Disable"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
+msgid "Discard"
+msgstr ""
+
+msgid "Do note that manually installed mods <co>are not verified to be safe and stable</c>!"
+msgstr ""
+
+msgid "Do you want to switch the <cp>color scheme</c> of the Geode menu"
+msgstr ""
+
+msgid "Download"
+msgstr ""
+
+msgid "Download Errors"
+msgstr ""
+
+msgid "Downloads"
+msgstr ""
+
+msgid "Editor"
+msgstr ""
+
+msgid "Enable"
+msgstr ""
+
+msgid "Enable the Mod to Edit '{}'"
+msgstr ""
+
+msgid "Enable the mod to use these buttons"
+msgstr ""
+
+msgid "Enabled"
+msgstr ""
+
+msgid "Enabled First"
+msgstr ""
+
+msgid "Enabled Only"
+msgstr ""
+
+msgid "Entry for Modtober 20{}"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Error Loading Mod"
+msgstr ""
+
+msgid "Error Toggling Mod"
+msgstr ""
+
+msgid "Error Uninstalling"
+msgstr ""
+
+msgid "Error Uninstalling Mod"
+msgstr ""
+
+msgid "Error fetching mod {}: {} (code {})"
+msgstr ""
+
+msgid "Error loading mods"
+msgstr ""
+
+msgid "Error parsing Markdown"
+msgstr ""
+
+msgid "Error parsing color: {}"
+msgstr ""
+
+msgid "Error uninstalling {:.400}: {}"
+msgstr ""
+
+msgid "Failed"
+msgstr ""
+
+msgid "Failed to load image: {}"
+msgstr ""
+
+msgid "Failed to pick file: {}"
+msgstr ""
+
+msgid "Featured"
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "Filter"
+msgstr ""
+
+msgid "Folder"
+msgstr ""
+
+msgid "Font file isn't valid!"
+msgstr ""
+
+msgid "From Developer"
+msgstr ""
+
+msgid "Gameplay"
+msgstr ""
+
+msgid "Geode Mods"
+msgstr ""
+
+msgid "Go to Page"
+msgstr ""
+
+msgid "Hex"
+msgstr ""
+
+msgid "Hide"
+msgstr ""
+
+msgid "Hide Errors Only"
+msgstr ""
+
+msgid "Hide Update"
+msgstr ""
+
+msgid "Hide Updates"
+msgstr ""
+
+msgid "Hold Up!"
+msgstr ""
+
+msgid "Huge"
+msgstr ""
+
+msgid "Icon"
+msgstr ""
+
+msgid "Icons"
+msgstr ""
+
+msgid "Info"
+msgstr ""
+
+msgid "Install"
+msgstr ""
+
+msgid "Installed"
+msgstr ""
+
+msgid "Installing too many mods can lead to <cr>instability</c>, <cr>bugs</c>, and"
+msgstr ""
+
+msgid "Installing..."
+msgstr ""
+
+msgid "Invalid Geode File"
+msgstr ""
+
+msgid "Invalid Platform"
+msgstr ""
+
+msgid "Invalid mods"
+msgstr ""
+
+msgid "Issue Report"
+msgstr ""
+
+msgid "It is recommended to <cj>install these mods instead</c>:"
+msgstr ""
+
+msgid "It is recommended to <cr>uninstall {0}</c>."
+msgstr ""
+
+msgid "Join"
+msgstr ""
+
+msgid "Join Discord"
+msgstr ""
+
+msgid "Join Modtober"
+msgstr ""
+
+msgid "Keybind"
+msgstr ""
+
+msgid "Keybinds"
+msgstr ""
+
+msgid "Leaderboard"
+msgstr ""
+
+msgid "Level"
+msgstr ""
+
+msgid "Level Editor"
+msgstr ""
+
+msgid "Links are spooky! Are you sure you want to go to <cy>{}</c>?"
+msgstr ""
+
+msgid "Loader: {}, Bindings: {}"
+msgstr ""
+
+msgid "Loading mod..."
+msgstr ""
+
+msgid "Loading..."
+msgstr ""
+
+msgid "Manage"
+msgstr ""
+
+msgid "Manually Installing Mods"
+msgstr ""
+
+msgid "Missing dependencies"
+msgstr ""
+
+msgid "Missing font {}, using fallback!"
+msgstr ""
+
+msgid "Missing setting '{}'"
+msgstr ""
+
+msgid "Mod"
+msgstr ""
+
+msgid "Mod Keybinds"
+msgstr ""
+
+msgid "Mod Loader"
+msgstr ""
+
+msgid "Mod Menu"
+msgstr ""
+
+msgid "Mod Settings"
+msgstr ""
+
+msgid "Mod Uninstalled"
+msgstr ""
+
+msgid "Mod has been installed"
+msgstr ""
+
+msgid "Mod has been uninstalled"
+msgstr ""
+
+msgid "Mods"
+msgstr ""
+
+msgid "Modtober 2025 is Here!"
+msgstr ""
+
+msgid "Modtober Winner"
+msgstr ""
+
+msgid "Most Downloads"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "No File Selected"
+msgstr ""
+
+msgid "No Folder Selected"
+msgstr ""
+
+msgid "No Updates Found"
+msgstr ""
+
+msgid "No changelog provided"
+msgstr ""
+
+msgid "No changes have been made."
+msgstr ""
+
+msgid "No description provided"
+msgstr ""
+
+msgid "No mods found :("
+msgstr ""
+
+msgid "No mods found :(\n"
+msgstr ""
+
+msgid "No tags found"
+msgstr ""
+
+msgid "Normal"
+msgstr ""
+
+msgid "Not Installed"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "Oldest"
+msgstr ""
+
+msgid "Opacity"
+msgstr ""
+
+msgid "Open Folder"
+msgstr ""
+
+msgid "Outdated"
+msgstr ""
+
+msgid "Outdated (GD {})"
+msgstr ""
+
+msgid "Outdated (Geode {})"
+msgstr ""
+
+msgid "Page {}/{} (Total {})"
+msgstr ""
+
+msgid "Paid Content"
+msgstr ""
+
+msgid "Please pick a good file"
+msgstr ""
+
+msgid "Please report the issue to the mod that caused the crash."
+msgstr ""
+
+msgid "Preparing Download(s)"
+msgstr ""
+
+msgid "Preparing Download..."
+msgstr ""
+
+msgid "Press a key..."
+msgstr ""
+
+msgid "Profile"
+msgstr ""
+
+msgid "Re-Disable"
+msgstr ""
+
+msgid "Re-Enable"
+msgstr ""
+
+msgid "Recent"
+msgstr ""
+
+msgid "Recently Installed"
+msgstr ""
+
+msgid "Recently Published"
+msgstr ""
+
+msgid "Recently Updated"
+msgstr ""
+
+msgid "Recently installed"
+msgstr ""
+
+msgid "Recommended by"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Reset"
+msgstr ""
+
+msgid "Reset All"
+msgstr ""
+
+msgid "Restart Geometry Dash"
+msgstr ""
+
+msgid "Restart Now"
+msgstr ""
+
+msgid "Restart Required"
+msgstr ""
+
+msgid "Restarting..."
+msgstr ""
+
+msgid "Safe Mode"
+msgstr ""
+
+msgid "Safe Mode Enabled"
+msgstr ""
+
+msgid "Safe Mode has been enabled. This means no mods will be loaded to prevent crashes. Feel free to manage any problematic mods."
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Search Filters"
+msgstr ""
+
+msgid "Search Mods"
+msgstr ""
+
+msgid "Search Sorting"
+msgstr ""
+
+msgid "Search keybinds..."
+msgstr ""
+
+msgid "Search settings..."
+msgstr ""
+
+msgid "Select Color"
+msgstr ""
+
+msgid "Server"
+msgstr ""
+
+msgid "Server Request"
+msgstr ""
+
+msgid "Set"
+msgstr ""
+
+msgid "Setting <cy>Escape</c> can make it"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Settings for {}"
+msgstr ""
+
+msgid "Show"
+msgstr ""
+
+msgid "Show Errors"
+msgstr ""
+
+msgid "Show Errors Only"
+msgstr ""
+
+msgid "Show Update"
+msgstr ""
+
+msgid "Show Updates"
+msgstr ""
+
+msgid "Small"
+msgstr ""
+
+msgid "Some Download(s) Failed"
+msgstr ""
+
+msgid "Some of your mods have been deprecated!"
+msgstr ""
+
+msgid "Sort"
+msgstr ""
+
+msgid "Success"
+msgstr ""
+
+msgid "Switch Theme"
+msgstr ""
+
+msgid "Tags"
+msgstr ""
+
+msgid "Task not started"
+msgstr ""
+
+msgid "Test"
+msgstr ""
+
+msgid "Text"
+msgstr ""
+
+msgid "Theme"
+msgstr ""
+
+msgid "There are <cg>{}</c> updates available!"
+msgstr ""
+
+msgid "There is an update available!"
+msgstr ""
+
+msgid "There were <cy>errors</c> loading some mods"
+msgstr ""
+
+msgid "This mod can not be uninstalled! (It is not installed at all)"
+msgstr ""
+
+msgid "This mod contains <cg>Paid Content</c>. This means that some or all"
+msgstr ""
+
+msgid "This mod is <cr>not available</c> for your current platform."
+msgstr ""
+
+msgid "This mod targets an <cr>unsupported version of Geode</c>."
+msgstr ""
+
+msgid "This mod targets an <cr>unsupported version of Geometry Dash</c>."
+msgstr ""
+
+msgid "Tiny"
+msgstr ""
+
+msgid "Too short tag {}"
+msgstr ""
+
+msgid "Unable to Select File"
+msgstr ""
+
+msgid "Unable to find mod with the ID <cr>{}</c>!"
+msgstr ""
+
+msgid "Unable to load tags"
+msgstr ""
+
+msgid "Unavailable"
+msgstr ""
+
+msgid "Uninstall"
+msgstr ""
+
+msgid "Uninstalling..."
+msgstr ""
+
+msgid "Universal"
+msgstr ""
+
+msgid "Unknown"
+msgstr ""
+
+msgid "Unknown error"
+msgstr ""
+
+msgid "Unknown tag {}"
+msgstr ""
+
+msgid "Unsaved Changes"
+msgstr ""
+
+msgid "Unsupported Platform"
+msgstr ""
+
+msgid "Up to Date!"
+msgstr ""
+
+msgid "Up to date"
+msgstr ""
+
+msgid "Update"
+msgstr ""
+
+msgid "Update All"
+msgstr ""
+
+msgid "Update Found"
+msgstr ""
+
+msgid "Updated at"
+msgstr ""
+
+msgid "Value"
+msgstr ""
+
+msgid "Value must be 'true' or 'false'"
+msgstr ""
+
+msgid "Version"
+msgstr ""
+
+msgid "Warning"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "You can <cg>manually install mods</c> by selecting their <cd>.geode</c> files."
+msgstr ""
+
+msgid "You have <cr>unsaved changes</c>! Are you sure you want to exit?"
+msgstr ""
+
+msgid "You have <cr>unsaved changes</c>! Are you sure you\nwant to exit?"
+msgstr ""
+
+msgid "You have <cy>{}</c> invalid <ca>.geode</c> files in your"
+msgstr ""
+
+msgid "You have invalid Geode mods"
+msgstr ""
+
+msgid "[No Description Provided]"
+msgstr ""
+
+msgid "all done"
+msgstr ""
+
+msgid "fail to load"
+msgstr ""
+
+msgid "size invalid!"
+msgstr ""
+
+msgid "{:.400} has been uninstalled!"
+msgstr ""
+
+msgid "{} Mod Installed/Updated"
+msgstr ""
+
+msgid "{} Mods Installed/Updated"
+msgstr ""
+
+msgid "{} installed mods"
+msgstr ""
+

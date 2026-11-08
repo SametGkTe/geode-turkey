@@ -1,0 +1,245 @@
+EN	kaynak (geode-sdk/geode @ main)
+Issue Report	GeodeUI.cpp:132
+Please report the issue to the mod that caused the crash.\n	GeodeUI.cpp:134
+If your issue relates to a <cr>game crash</c>, <cb>please include</c> the	GeodeUI.cpp:135
+latest crash log(s) from `{}`	GeodeUI.cpp:136
+Open Folder	GeodeUI.cpp:139
+Please report your issue on the	GeodeUI.cpp:158
+[#support](https://discord.com/channels/911701438269386882/979352389985390603)	GeodeUI.cpp:159
+channel in the [Geode Discord Server](https://discord.gg/9e43WMKzhp)\n\n	GeodeUI.cpp:160
+Developing mods takes a lot of time and effort!	GeodeUI.cpp:178
+Consider <cy>supporting the developers</c> of your favorite mods	GeodeUI.cpp:179
+to show them thanks for all their hard work <3	GeodeUI.cpp:180
+Failed to load image: {}	GeodeUI.cpp:339
+Loading mod...	GeodeUI.cpp:41
+Error Loading Mod	GeodeUI.cpp:76
+Unable to find mod with the ID <cr>{}</c>!	GeodeUI.cpp:77
+ManagedPopup-fields	PopupManager.cpp:14
+Geometry Dash	mods/GeodeStyle.cpp:126
+all done	mods/ModsLayer.cpp:179
+{} Mod Installed/Updated	mods/ModsLayer.cpp:182
+{} Mods Installed/Updated	mods/ModsLayer.cpp:185
+Some Download(s) Failed	mods/ModsLayer.cpp:195
+Click to Confirm {} Download	mods/ModsLayer.cpp:213
+Click to Confirm {} Downloads	mods/ModsLayer.cpp:216
+Preparing Download(s)	mods/ModsLayer.cpp:228
+Download Errors	mods/ModsLayer.cpp:278
+Restarting text	mods/ModsLayer.cpp:301
+Safe Mode Enabled	mods/ModsLayer.cpp:677
+Safe Mode has been enabled. This means no mods will be loaded to prevent crashes. Feel free to manage any problematic mods.	mods/ModsLayer.cpp:687
+Restart Now	mods/ModsLayer.cpp:72
+Page {}/{} (Total {})	mods/ModsLayer.cpp:775
+Go to Page	mods/ModsLayer.cpp:816
+Switch Theme	mods/ModsLayer.cpp:850
+Do you want to switch the <cp>color scheme</c> of the Geode menu	mods/ModsLayer.cpp:852
+<cy>GD-style colors</c>	mods/ModsLayer.cpp:854
+<ca>Geode-style colors</c>	mods/ModsLayer.cpp:854
+Restart Geometry Dash	mods/ModsLayer.cpp:876
+Are you sure you want to restart Geometry Dash?	mods/ModsLayer.cpp:877
+Manually Installing Mods	mods/ModsLayer.cpp:935
+You can <cg>manually install mods</c> by selecting their <cd>.geode</c> files.	mods/ModsLayer.cpp:936
+Do note that manually installed mods <co>are not verified to be safe and stable</c>!\n	mods/ModsLayer.cpp:937
+<cr>Proceed at your own risk!</c>	mods/ModsLayer.cpp:938
+Geode Mods	mods/ModsLayer.cpp:946
+Unable to Select File	mods/ModsLayer.cpp:957
+swelvy-bg-{}	mods/SwelvyBG.cpp:37
+Modtober Winner	mods/events/EventWinnerAnimation.cpp:164
+Geome3Dash	mods/events/EventWinnerAnimation.cpp:182
+Rainix & Adaf	mods/events/EventWinnerAnimation.cpp:196
+Error fetching mod {}: {} (code {})	mods/list/ModItem.cpp:1032
+[No Description Provided]	mods/list/ModItem.cpp:106
+Preparing Download...	mods/list/ModItem.cpp:176
+modtober{}winner	mods/list/ModItem.cpp:352
+ModItem update check	mods/list/ModItem.cpp:458
+Updated at	mods/list/ModItem.cpp:517
+Recently installed	mods/list/ModItem.cpp:518
+Unsupported Platform	mods/list/ModItem.cpp:727
+Outdated (GD {})	mods/list/ModItem.cpp:731
+Outdated (Geode {})	mods/list/ModItem.cpp:736
+Paid Content	mods/list/ModItem.cpp:891
+This mod contains <cg>Paid Content</c>. This means that some or all	mods/list/ModItem.cpp:892
+features of the mod <cj>require money to use</c>.\n\n	mods/list/ModItem.cpp:893
+<cy>Geode does not handle any payments. The mod handles all transactions in their own way.</c>\n\n	mods/list/ModItem.cpp:894
+<cp>The paid content may not be available in your country.</c>	mods/list/ModItem.cpp:895
+Invalid Platform	mods/list/ModItem.cpp:907
+This mod is <cr>not available</c> for your current platform.	mods/list/ModItem.cpp:908
+This mod targets an <cr>unsupported version of Geometry Dash</c>.	mods/list/ModItem.cpp:916
+This mod targets an <cr>unsupported version of Geode</c>.	mods/list/ModItem.cpp:924
+It is recommended to <cj>install these mods instead</c>:\n\n	mods/list/ModItem.cpp:944
+<cy>{0}</c> has been <co>deprecated</c>, meaning that it	mods/list/ModItem.cpp:952
+is no longer being developed. You may start running into	mods/list/ModItem.cpp:953
+<co>bugs and crashes</c>, and the mod may not be available	mods/list/ModItem.cpp:954
+for future GD versions.\n\n	mods/list/ModItem.cpp:955
+It is recommended to <cr>uninstall {0}</c>.	mods/list/ModItem.cpp:958
+Invalid Geode File	mods/list/ModItem.cpp:969
+Missing dependencies	mods/list/ModItem.cpp:970
+unknown display type	mods/list/ModItem.hpp:33
+Show Updates	mods/list/ModList.cpp:113
+Hide Updates	mods/list/ModList.cpp:117
+Update All	mods/list/ModList.cpp:128
+There were <cy>errors</c> loading some mods	mods/list/ModList.cpp:172
+Show Errors Only	mods/list/ModList.cpp:185
+Hide Errors Only	mods/list/ModList.cpp:189
+Search Mods	mods/list/ModList.cpp:224
+Modtober 2025 is Here!	mods/list/ModList.cpp:301
+There is an update available!	mods/list/ModList.cpp:502
+Show Update	mods/list/ModList.cpp:504
+Hide Update	mods/list/ModList.cpp:505
+There are <cg>{}</c> updates available!	mods/list/ModList.cpp:508
+Some of your mods have been deprecated!	mods/list/ModList.cpp:515
+Show Errors	mods/list/ModList.cpp:658
+ModList update check	mods/list/ModList.cpp:68
+ModList Page Load	mods/list/ModList.cpp:721
+Click the (!) button to see\nalternatives for each mod.	mods/list/ModList.cpp:775
+Click the (!) button to see\nthe errors for each mod.	mods/list/ModList.cpp:786
+<cy>{} mod{} will be installed</c>:\n\n	mods/popups/ConfirmInstall.cpp:118
+<cy>{} dependenc{} will also be installed</c>:\n\n	mods/popups/ConfirmInstall.cpp:130
+<cy>{} mod{} will be replaced</c>:\n\n	mods/popups/ConfirmInstall.cpp:142
+<cr>{} mod{} will be force-disabled, as they are incompatible</c>:\n\n	mods/popups/ConfirmInstall.cpp:154
+<cg>{} mod{} will be force-enabled</c>:\n\n	mods/popups/ConfirmInstall.cpp:166
+Confirm Install	mods/popups/ConfirmInstall.cpp:178
+Are you sure you want to \n<cr>uninstall</c> <cy>{:.100}</c>?	mods/popups/ConfirmUninstallPopup.cpp:16
+Delete the Mod's save data	mods/popups/ConfirmUninstallPopup.cpp:23
+Delete ALL mods and their save data	mods/popups/ConfirmUninstallPopup.cpp:28
+Mod Uninstalled	mods/popups/ConfirmUninstallPopup.cpp:57
+{:.400} has been uninstalled!	mods/popups/ConfirmUninstallPopup.cpp:58
+Error Uninstalling	mods/popups/ConfirmUninstallPopup.cpp:64
+Error uninstalling {:.400}: {}	mods/popups/ConfirmUninstallPopup.cpp:65
+Developers for {}	mods/popups/DevPopup.cpp:13
+Enabled First	mods/popups/FiltersPopup.cpp:100
+Developer Name	mods/popups/FiltersPopup.cpp:130
+From Developer	mods/popups/FiltersPopup.cpp:140
+Search Filters	mods/popups/FiltersPopup.cpp:19
+Unable to load tags	mods/popups/FiltersPopup.cpp:198
+Enabled Only	mods/popups/FiltersPopup.cpp:91
+Loader: {}, Bindings: {}	mods/popups/ModPopup.cpp:100
+No Updates Found	mods/popups/ModPopup.cpp:1006
+No tags found	mods/popups/ModPopup.cpp:1020
+Entry for Modtober 20{}	mods/popups/ModPopup.cpp:1040
+No changelog provided	mods/popups/ModPopup.cpp:1124
+Installing too many mods can lead to <cr>instability</c>, <cr>bugs</c>, and	mods/popups/ModPopup.cpp:1158
+<cr>crashes</c>. <cy>You should only install mods you need!</c>	mods/popups/ModPopup.cpp:1159
+Error Uninstalling Mod	mods/popups/ModPopup.cpp:1177
+This mod can not be uninstalled! (It is not installed at all)	mods/popups/ModPopup.cpp:1178
+This mod was an entry for <cj>Modtober 2024</c>, a contest to create	mods/popups/ModPopup.cpp:1208
+the best mod with the theme <cc>\"The Sky's the Limit\"</c>	mods/popups/ModPopup.cpp:1209
+This mod was an entry for <co>Modtober 2025</c>, a contest to create	mods/popups/ModPopup.cpp:1217
+the best mod with the theme <cc>\"What The Heck!?\"</c>	mods/popups/ModPopup.cpp:1218
+Recommended by	mods/popups/ModPopup.cpp:196
+{} installed mods	mods/popups/ModPopup.cpp:204
+Checking for updates	mods/popups/ModPopup.cpp:252
+Re-Enable	mods/popups/ModPopup.cpp:418
+Re-Disable	mods/popups/ModPopup.cpp:425
+https://geode-sdk.org/mods/{}	mods/popups/ModPopup.cpp:633
+ModPopup stats listener	mods/popups/ModPopup.cpp:688
+ModPopup tags listener	mods/popups/ModPopup.cpp:695
+ModPopup update checker	mods/popups/ModPopup.cpp:704
+Not Installed	mods/popups/ModPopup.cpp:713
+Mod has been uninstalled	mods/popups/ModPopup.cpp:799
+Mod has been installed	mods/popups/ModPopup.cpp:871
+Update Found	mods/popups/ModPopup.cpp:990
+Up to Date!	mods/popups/ModPopup.cpp:999
+Join Modtober	mods/popups/ModtoberPopup.cpp:27
+<co>Modtober</c> is being hosted on the <cr>Geode</c> <ca>Discord Server</c>.\n	mods/popups/ModtoberPopup.cpp:28
+To participate, join Geode and read the rules for the contest in <cy>#dev-news</c>	mods/popups/ModtoberPopup.cpp:29
+Join Discord	mods/popups/ModtoberPopup.cpp:30
+https://discord.gg/9e43WMKzhp	mods/popups/ModtoberPopup.cpp:33
+Search Sorting	mods/popups/SortPopup.cpp:14
+Reset All	mods/settings/BaseSettingsPopup.cpp:125
+No changes have been made.	mods/settings/BaseSettingsPopup.cpp:150
+Are you sure you want to <cr>reset</c> ALL settings	mods/settings/BaseSettingsPopup.cpp:171
+to <cy>default</c>?	mods/settings/BaseSettingsPopup.cpp:172
+You have <cr>unsaved changes</c>! Are you sure you	mods/settings/BaseSettingsPopup.cpp:296
+want to exit?	mods/settings/BaseSettingsPopup.cpp:297
+Search settings...	mods/settings/BaseSettingsPopup.cpp:55
+Setting <cy>Escape</c> can make it\n	mods/settings/KeybindEditPopup.cpp:145
+<cr>impossible</c> to pause the game!\n	mods/settings/KeybindEditPopup.cpp:146
+Are you sure you want to do this?	mods/settings/KeybindEditPopup.cpp:147
+Unsaved Changes	mods/settings/KeybindEditPopup.cpp:283
+You have <cr>unsaved changes</c>! Are you sure you want to exit?	mods/settings/KeybindEditPopup.cpp:284
+Mod Keybinds	mods/settings/KeybindsPopup.cpp:26
+Search keybinds...	mods/settings/KeybindsPopup.cpp:27
+Test popup	mods/settings/KeybindsPopup.cpp:34
+Settings for {}	mods/settings/ModSettingsPopup.cpp:8
+Restart Required	mods/settings/SettingNodeV3.cpp:106
+No description provided	mods/settings/SettingNodeV3.cpp:120
+Are you sure you want to <cr>reset</c> <cl>{}</c> to <cy>default</c>?	mods/settings/SettingNodeV3.cpp:129
+Enable the mod to use these buttons	mods/settings/SettingNodeV3.cpp:418
+Please pick a good file	mods/settings/SettingNodeV3.cpp:618
+No Folder Selected	mods/settings/SettingNodeV3.cpp:641
+No File Selected	mods/settings/SettingNodeV3.cpp:641
+Failed to pick file: {}	mods/settings/SettingNodeV3.cpp:678
+Missing setting '{}'	mods/settings/SettingNodeV3.cpp:939
+Enable the Mod to Edit '{}'	mods/settings/SettingNodeV3.cpp:940
+({} invalid mods)	mods/sources/InstalledModListSource.cpp:225
+Invalid mods	mods/sources/InstalledModListSource.cpp:228
+You have <cy>{}</c> invalid <ca>.geode</c> files in your	mods/sources/InstalledModListSource.cpp:230
+mods directory. These are probably due to a recent GD	mods/sources/InstalledModListSource.cpp:231
+update (or because you are the developer of the mods).	mods/sources/InstalledModListSource.cpp:232
+<cr>Would you like to delete these invalid files?</c>	mods/sources/InstalledModListSource.cpp:233
+No mods found :(\n	mods/sources/InstalledModListSource.cpp:286
+(You probably haven't updated\n	mods/sources/InstalledModListSource.cpp:287
+or installed any since the\n	mods/sources/InstalledModListSource.cpp:288
+release of Geode for GD 2.2081)	mods/sources/InstalledModListSource.cpp:289
+Recently Installed	mods/sources/InstalledModListSource.cpp:309
+No mods found :(	mods/sources/ModListSource.cpp:19
+You have invalid Geode mods	mods/sources/ModListSource.hpp:24
+Coming soon ;)	mods/sources/ModPackListSource.cpp:5
+Error Toggling Mod	mods/sources/ModSource.cpp:202
+Are you sure you want to <cr>{0}</c> <co>{2}</c>? Doing this will make <cy>{3} other mods</c> {1}.	mods/sources/ModSource.cpp:220
+fail to load	mods/sources/ModSource.cpp:221
+Error loading mods	mods/sources/ServerModListSource.cpp:12
+Most Downloads	mods/sources/ServerModListSource.cpp:80
+Recently Published	mods/sources/ServerModListSource.cpp:81
+Recently Updated	mods/sources/ServerModListSource.cpp:82
+str task cancelled :(	mods/test/UITest.cpp:107
+str task done: {}	mods/test/UITest.cpp:110
+got a mods list with {}/{} mods!!!!	mods/test/UITest.cpp:119
+epic mods list fail L: {}	mods/test/UITest.cpp:122
+mods list progress: {}	mods/test/UITest.cpp:126
+mods list cancelled L	mods/test/UITest.cpp:129
+https://api.geode-sdk.org/	mods/test/UITest.cpp:134
+finish with code {} :3	mods/test/UITest.cpp:138
+GUI Test Popup	mods/test/UITest.cpp:29
+Promise Test	mods/test/UITest.cpp:32
+Task not started	mods/test/UITest.cpp:50
+Server Request	mods/test/UITest.cpp:55
+Clear Caches	mods/test/UITest.cpp:74
+Finished with code {}	mods/test/UITest.cpp:97
+Select Color	nodes/ColorPickPopup.cpp:49
+BitmapFont width {} exceeds max texture limit {}	nodes/Label.cpp:185
+BitmapFont height {} exceeds max texture limit {}	nodes/Label.cpp:194
+BitmapFont contains more than one atlas ({})	nodes/Label.cpp:200
+' && value.back() == '	nodes/Label.cpp:213
+failed to load from file {}: {}	nodes/LazySprite.cpp:139
+invalid image data or format	nodes/LazySprite.cpp:185
+failed to initialize OpenGL texture	nodes/LazySprite.cpp:207
+failed to initialize the sprite	nodes/LazySprite.cpp:221
+LazySprite Web Listener	nodes/LazySprite.cpp:78
+Request failed (code {}): {}	nodes/LazySprite.cpp:93
+No color specified	nodes/MDTextArea.cpp:139
+Color tag	nodes/MDTextArea.cpp:142
+unexpectedly long, either do <cx> or <c hex>	nodes/MDTextArea.cpp:142
+Unknown color {}	nodes/MDTextArea.cpp:159
+Unknown error	nodes/MDTextArea.cpp:163
+Hold Up!	nodes/MDTextArea.cpp:212
+Links are spooky! Are you sure you want to go to <cy>{}</c>?	nodes/MDTextArea.cpp:213
+Invalid profile ID: <cr>	nodes/MDTextArea.cpp:228
+</c>. This is	nodes/MDTextArea.cpp:229
+probably the mod developer's fault, report the bug to them.	nodes/MDTextArea.cpp:230
+Invalid level ID: <cr>	nodes/MDTextArea.cpp:246
+probably the mod developers's fault, report the bug to them.	nodes/MDTextArea.cpp:248
+Unknown tag {}	nodes/MDTextArea.cpp:429
+Error parsing color: {}	nodes/MDTextArea.cpp:445
+Too short tag {}	nodes/MDTextArea.cpp:451
+Unhandled text type {}	nodes/MDTextArea.cpp:459
+Unhandled block enter type {}	nodes/MDTextArea.cpp:557
+Missing font {}, using fallback!	nodes/MDTextArea.cpp:56
+Unhandled block leave type {}	nodes/MDTextArea.cpp:661
+Unhandled span enter type {}	nodes/MDTextArea.cpp:721
+Unhandled span leave type {}	nodes/MDTextArea.cpp:776
+Error parsing Markdown	nodes/MDTextArea.cpp:827
+Value must be 'true' or 'false'	nodes/TextArea.cpp:436
+size invalid!	nodes/TextArea.cpp:479
+Font file isn't valid!	nodes/TextArea.cpp:493
+TextInputNode fix	nodes/TextInput.cpp:12

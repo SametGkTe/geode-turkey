@@ -1,0 +1,68 @@
+name: Build Geode Mod
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - "**"
+
+jobs:
+  build:
+    strategy:
+      fail-fast: false
+      matrix:
+        config:
+        - name: Windows
+          os: windows-latest
+
+        - name: Android32
+          os: ubuntu-latest
+          target: Android32
+
+        - name: Android64
+          os: ubuntu-latest
+          target: Android64
+
+    name: ${{ matrix.config.name }}
+    runs-on: ${{ matrix.config.os }}
+
+    steps:
+      - uses: actions/checkout@v7
+
+      # ------------------------------------------------------------------
+      # TSV tablolarındaki çevirileri C++ sözlüklerine dönüştür + denetle.
+      # Böylece GitHub'ın web editöründe sadece .tsv dosyasını düzenlemen
+      # yeterli olur; Python'u kendi bilgisayarına kurmana gerek yok.
+      # ------------------------------------------------------------------
+      - name: Çevirileri üret ve denetle
+        shell: bash
+        run: |
+          python3 arac/ceviri-olustur.py
+          if ! git diff --quiet -- src/translations.generated.hpp src/vanilla.generated.hpp; then
+            echo "::warning::Üretilen sözlükler commit edilenden farklı. Depoya 'python3 arac/ceviri-olustur.py' çıktısını da eklemeyi unutma."
+          fi
+
+      - name: Build the mod
+        uses: geode-sdk/build-geode-mod@main
+        with:
+          combine: true
+          target: ${{ matrix.config.target }}
+
+  package:
+    name: Package builds
+    runs-on: ubuntu-latest
+    needs: ['build']
+
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Üretilen sözlükleri hazırla
+        run: python3 arac/ceviri-olustur.py
+
+      - uses: geode-sdk/build-geode-mod/combine@main
+        id: build
+
+      - uses: actions/upload-artifact@v7
+        with:
+          name: Build Output
+          path: ${{ steps.build.outputs.build-output }}

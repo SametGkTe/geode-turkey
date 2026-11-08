@@ -1,0 +1,17 @@
+# Derleme ciktilari
+build/
+*.geode
+*.pdb
+*.ilk
+*.o
+*.obj
+
+# Editor / isletim sistemi
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
