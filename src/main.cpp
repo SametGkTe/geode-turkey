@@ -17,7 +17,6 @@
 #include <Geode/Geode.hpp>
 #include <Geode/modify/CCScene.hpp>
 #include <Geode/modify/MenuLayer.hpp>
-#include <Geode/modify/GlobalID.hpp>
 #include <Geode/binding/FLAlertLayer.hpp>
 #include <Geode/binding/GlobalID.hpp>
 #include <cocos2d.h>
@@ -139,6 +138,13 @@ bool uygula(cocos2d::CCNode* node, std::string& ilkMetin, bool geriDondur) {
 // Sahne ağacını özyinelemeli tara.
 void tara(cocos2d::CCNode* node) {
     if (!node) return;
+
+    // GlobalID kapalıysa daha önce çevirilen yazıları İngilizceye geri al
+    // (kullanıcı adları / seviye isimleri bozulmasın). geriAl zaten cocuklara da yayılır.
+    if (!GlobalID::getGlobalIDEnabled()) {
+        geriAl(node);
+        return;
+    }
 
     // Çevrilen ilk metni node üzerinde saklıyoruz: kapatınca geri dönebilmek için.
     auto* veri = node->getUserObject();
@@ -270,20 +276,4 @@ class $modify(TRScene, cocos2d::CCScene) {
     }
 };
 
-// GlobalID ayarı kapatılırsa (kullanıcı isimleri karışmasın diye) yazıları geri al.
-class $modify(TRGlobalIDHook, GlobalID) {
-    static void setGlobalIDEnabled(bool enabled) {
-        GlobalID::setGlobalIDEnabled(enabled);
-        if (!enabled) {
-            if (auto sahne = cocos2d::CCDirector::get()->getRunningScene()) {
-                sahne->runAction(cocos2d::CCSequence::create(
-                    cocos2d::CCDelayTime::create(0.1f),
-                    cocos2d::CCCallFunc::create(
-                        GeriAlma::create(sahne), callfunc_selector(GeriAlma::calis)
-                    ),
-                    nullptr
-                ));
-            }
-        }
-    }
-};
+
