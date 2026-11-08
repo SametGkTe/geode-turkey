@@ -12,6 +12,11 @@ Girdi : glossary.tsv + ceviriler/ceviri-tablosu.tsv
 
 import sys, re, csv, pathlib
 
+# Windows konsolu (cp1252) Türkçe karakterleri (ı, ş, ç, ö, ğ, ü) ve
+# sembolleri (✗, ! vb.) kodlayamıyor; konsolu UTF-8'a zorlayıp çökmeyi engelle.
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="backslashreplace")
+
 KOK = pathlib.Path(__file__).resolve().parent.parent
 # Geode arayüzü çevirileri
 GIRDI_GEC = [KOK / "glossary.tsv", KOK / "ceviriler" / "ceviri-tablosu.tsv"]
