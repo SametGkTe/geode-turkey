@@ -147,8 +147,8 @@ void tara(cocos2d::CCNode* node) {
     uygula(node, ilkMetin, false);
 
     if (!ilkMetin.empty()) {
-        if (veri) static_cast<cocos2d::CCString*>(veri)->setString(ilkMetin.c_str());
-        else node->setUserObject(cocos2d::CCString::createWithFormat("%s", ilkMetin.c_str()));
+        // CCString cocos2d-x 2.x'te immutable (setString yok), yeni nesne olusturup atiyoruz.
+        node->setUserObject(cocos2d::CCString::create(ilkMetin));
     }
 
     if (auto cocuklar = node->getChildren()) {
